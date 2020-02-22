@@ -1,0 +1,18 @@
+#content div {
+  margin-top: 20px;
+}
+button {
+  margin: 5px;
+}
+
+.form-group a {
+	color: white;
+}
+
+.form-group a:hover {
+	color: red;
+}
+
+.well p {
+  font-size: 24px
+}
